@@ -1,1 +1,5 @@
-//your JS code here. If required.
+function curry(callback) {
+  
+}
+
+module.export=curry
